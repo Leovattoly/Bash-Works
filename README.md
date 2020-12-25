@@ -1,4 +1,4 @@
 # Bash Works
 ***************
 
-This repositery contains bash projects
+This repository contains bash projects
