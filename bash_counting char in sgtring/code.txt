@@ -1,0 +1,10 @@
+# Reading String
+declare -a str_input
+echo "Enter a string: "
+read str_input
+# Reading Paticular character to be counted
+echo "Enter the character: "
+read char_input
+
+# counting the number of times given character appears
+echo "${str_input}" | awk -F"${char_input}" '{print NF-1}'
