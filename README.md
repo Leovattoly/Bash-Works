@@ -1,1 +1,4 @@
-# Bash-Works
+# Bash Works
+***************
+
+This repositery contains bash projects
